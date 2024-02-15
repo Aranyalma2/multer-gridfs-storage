@@ -31,7 +31,7 @@
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/devconcept/multer-gridfs-storage.git"
+		"url": "https://github.com/Aranyalma2/multer-gridfs-storage.git"
 	},
 	"dependencies": {
 		"@types/node": ">=14",
